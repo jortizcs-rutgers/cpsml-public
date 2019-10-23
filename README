@@ -1,0 +1,15 @@
+Machine Learning for Cyber-physical systems
+Author: Jorge Ortiz, Rutgers University
+
+This repository contains a number of examples for topics covered in the CPS-ML graduate course at Rutgers University.
+
+Main topics:
+ * domain-adaptation
+ * gans
+ * active-learning
+ * bayesian-methods
+ * deep-learning
+
+Domain adaptation example are based on theory of domain adaptation techniques:
+1) covariate shift with shared support
+2) covariate shift without shared support
